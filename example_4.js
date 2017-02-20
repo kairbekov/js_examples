@@ -1,4 +1,4 @@
-// min of 3 numbers
+// max of 3 numbers
 function max(A,B,C){
 	if (A>=B && A>=C) return A;
 	else if (B>=A && B>=C) return B;
